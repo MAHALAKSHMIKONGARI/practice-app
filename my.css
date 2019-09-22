@@ -1,0 +1,27 @@
+#user {
+    width: 100%;
+}
+
+.btn {
+  width: 100%;
+}
+.text-field{
+  width: 75px;
+}
+.total-field{
+  width: 205px;
+}
+
+.br{
+  height: 1em
+}
+.tb{
+  margin-left:auto; 
+  margin-right:auto;
+}
+section{
+  text-align: center
+}
+h1{
+  text-align: center
+}
